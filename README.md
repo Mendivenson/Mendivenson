@@ -30,9 +30,6 @@ As a statistician, I focus on designing, modeling, and analyzing data through pr
 ---
 
 <br>
-<br>
-<br>
-<br>
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mendivenson&theme=tokyonight&hide_border=true" />
