@@ -1,12 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=2E86AB&center=true&vCenter=true&width=600&repeat=false&lines=Mendivenson+Barrag%C3%A1n" alt="Mendivenson Barragán" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E86AB&center=true&vCenter=true&width=600&lines=Estad%C3%ADstica+%2B+Datos+%2B+Automatizaci%C3%B3n;Statistics+%2B+Data+%2B+Automation" alt="Typing SVG" />
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mendivenson)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mendivenson@gmail.com)
-[![RPubs](https://img.shields.io/badge/RPubs-75AADB?style=for-the-badge&logo=r&logoColor=white)](https://rpubs.com/Mendivenson)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2E86AB&height=200&section=header&text=Mendivenson%20Barrag%C3%A1n&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Estad%C3%ADstica%20%2B%20Datos%20%2B%20Automatizaci%C3%B3n&descAlignY=60&descSize=20" /> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mendivenson) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mendivenson@gmail.com) [![RPubs](https://img.shields.io/badge/RPubs-75AADB?style=for-the-badge&logo=r&logoColor=white)](https://rpubs.com/Mendivenson)
 
 </div>
 
@@ -32,10 +26,14 @@ As a statistician, I focus on designing, modeling, and analyzing data through pr
 | 📈 **[tidytuesday](https://github.com/Mendivenson/tidytuesday)** | Visualizaciones semanales en R base — sin ggplot, solo diseño puro |
 | 🎓 **[estadistica-unal](https://github.com/Mendivenson/estadistica-unal)** | Talleres y proyectos de la carrera de Estadística |
 
+
+
+---
+
 <br>
-
-## 📊 GitHub Stats
-
+<br>
+<br>
+<br>
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mendivenson&theme=tokyonight&hide_border=true" />
