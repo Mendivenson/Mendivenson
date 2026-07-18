@@ -14,7 +14,6 @@ As a statistician, I focus on designing, modeling, and analyzing data through pr
 - **Trainee Data & Ops** ~ UBITS *(2026)*
 - **Investigador asistente** ~ Banco de la República de Colombia *(2025)*
 - **Colaborador** ~ [SpatFD](https://github.com/Mendivenson/SpatFD), paquete de R en CRAN *(2025–actualidad)*
-- **Estudiante auxiliar** ~ Facultad de Ingeniería, UNAL *(2024)*
 
 <br>
 
