@@ -36,7 +36,7 @@ As a statistician, I focus on designing, modeling, and analyzing data through pr
 | Proyecto | Descripción |
 |---|---|
 | 📦 **[SpatFD](https://github.com/Mendivenson/SpatFD)** | Paquete de R en CRAN para geoestadística funcional (functional kriging/cokriging) |
-| 📈 **[tidytuesday](https://github.com/Mendivenson/tidytuesday)** | Visualizaciones semanales en R base — sin ggplot, solo diseño puro |
+| 📈 **[tidytuesday](https://github.com/Mendivenson/tidytuesday)** | Visualizaciones semanales en R base |
 | 🎓 **[estadistica-unal](https://github.com/Mendivenson/estadistica-unal)** | Talleres y proyectos de la carrera de Estadística |
 
 
