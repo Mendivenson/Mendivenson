@@ -15,7 +15,7 @@ As a statistician, I focus on designing, modeling, and analyzing data through pr
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Mendivenson/tidytuesday/main/plots/last%20week.png" width="900" alt="Último gráfico de TidyTuesday">
+<img src="https://raw.githubusercontent.com/Mendivenson/tidytuesday/main/plots/last%20week.png" width="1000" alt="Último gráfico de TidyTuesday">
 
 </div>
 
