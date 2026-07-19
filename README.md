@@ -9,6 +9,19 @@ Como estadístico, me enfoco en el diseño, modelamiento y análisis de datos me
 ### 🇺🇸 About me
 As a statistician, I focus on designing, modeling, and analyzing data through probabilistic and inferential methods to support decision-making processes. I prefer R over Python for its ecosystem geared toward statistical analysis and visualization, and I particularly enjoy plotting data.
 
+<br>
+
+## 📊 TidyTuesday de la semana pasada / Last week TidyTuesday
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Mendivenson/tidytuesday/main/plots/last%20week.png" width="700" alt="Último gráfico de TidyTuesday">
+
+</div>
+
+<p align="center"><em>Ver más en <a href="https://github.com/Mendivenson/tidytuesday">tidytuesday</a></em></p>
+
+<br>
+
 ## Experiencia / Experience
 
 - **Trainee Data & Ops** ~ UBITS *(2026)*
